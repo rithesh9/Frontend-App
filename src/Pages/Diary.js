@@ -1,5 +1,6 @@
 import React from 'react'
 
+<<<<<<< HEAD
 function Diary(){
     return(
       <div>
@@ -8,6 +9,13 @@ function Diary(){
         <hr />
     </div>
        
+=======
+function Dairy(){
+    return(   
+      <div>
+      <h2>Diary</h2>
+      <hr/>
+>>>>>>> ff530936308038939e3fa9b3a675b45722f53531
       <div className='row'> 
          <div className='row mb-2'> 
           <div className='col-4'> 
@@ -98,4 +106,4 @@ function Diary(){
        
     )
 }
-export default Diary;
+export default Dairy;
